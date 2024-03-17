@@ -21,4 +21,4 @@ bmw.accelerate();
 mercedes.acclerate();
 mercedes.acclerate();
 mercedes.acclerate();
-mercedes.speed();
+mercedes.brake();
